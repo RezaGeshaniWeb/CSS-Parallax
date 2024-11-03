@@ -6,7 +6,7 @@
 ![Alt text](https://github.com/user-attachments/assets/8c50aed1-47eb-42e3-bce2-0dacd39f2364)
 
 
-- [Demo Project](https://rezageshaniweb.github.io/CSS-Parallax/)
+- [Online Demo](https://rezageshaniweb.github.io/CSS-Parallax/)
 
 - Developed by Reza Geshani
 
