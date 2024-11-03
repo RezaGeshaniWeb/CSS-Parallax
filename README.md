@@ -1,16 +1,16 @@
 # CSS-Parallax
 
-![Alt text](https://github.com/user-attachments/assets/c343df46-f1b4-4825-9aa7-3009d055c831)
+![Alt text](https://github.com/user-attachments/assets/806f3626-7975-4c82-adb7-062d387cc084)
 
 
-![Alt text](https://github.com/user-attachments/assets/8c50aed1-47eb-42e3-bce2-0dacd39f2364)
+![Alt text](https://github.com/user-attachments/assets/fafa7351-85ff-4dc9-b4d9-507676fcc682)
 
 
 - [Online Demo](https://rezageshaniweb.github.io/CSS-Parallax/)
 
 - Developed by Reza Geshani
 
-- Created - 2024-11-02
+- Created - 2024-11-03
 
 - Technologies Used - Html , Css
 
