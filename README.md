@@ -1,9 +1,9 @@
 # CSS-Parallax
 
-![Alt text](https://github.com/user-attachments/assets/806f3626-7975-4c82-adb7-062d387cc084)
+![Alt text](https://github.com/user-attachments/assets/b89754d3-2a1f-4769-83e2-a5b38476e750)
 
 
-![Alt text](https://github.com/user-attachments/assets/fafa7351-85ff-4dc9-b4d9-507676fcc682)
+![Alt text](https://github.com/user-attachments/assets/394ca053-17a4-4e54-9f65-d86711bf43fb)
 
 
 - [Online Demo](https://rezageshaniweb.github.io/CSS-Parallax/)
