@@ -377,7 +377,6 @@ main {
                         font-size: 40px;
                         color: var(--primary);
                         margin-left: 7px;
-                        font-style: italic;
 
                         &:last-of-type {
                             text-transform: uppercase;
