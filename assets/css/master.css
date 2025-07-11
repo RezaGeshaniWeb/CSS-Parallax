@@ -368,14 +368,15 @@ main {
 
                 >p {
                     text-align: center;
-                    font-size: 20px;
+                    font-size: 22px;
                     margin: 60px 0 70px;
 
                     color: var(--dark2);
 
                     >strong {
-                        font-size: 22px;
+                        font-size: 25px;
                         color: var(--primary);
+                        margin-left: 5px;
 
                         &:last-of-type {
                             text-transform: uppercase;
